@@ -1,9 +1,10 @@
 
+import './App.css';
 
 function App() {
-  return 
-    
-  
+  return (
+    <h1>JSX-Components</h1>
+  );
 }
 
 export default App;
