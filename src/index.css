@@ -1,8 +1,13 @@
-
-
 /**İNDEX.JS'TEKİ H1'İ ETKİLEYEBİLİRİZZ*/
 
-h1{
-    text-align: center;
-    background-color: gray;
+h1 {
+  text-align: center;
+  background-color: gray;
+}
+
+/** MAİN DİVİNE CLASSNAMEİNDEN ULAŞTIM*/
+.mainDiv {
+  height: 80vh;
+  background-color: rgb(51, 51, 51);
+  color: white;
 }
